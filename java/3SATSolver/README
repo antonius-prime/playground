@@ -1,0 +1,2 @@
+Solve the 3SAT problem using one of the algorithms implemented.
+java -jar trisat.jar 3 resources/uf20-01.cnf

@@ -1,0 +1,3 @@
+Simple naive implementation of game of life. Outputs to STDOUT.
+runhaskell GameOfLife.hs <width> <height> <number_of_beings>
+Made as an idea for course homework assignment.

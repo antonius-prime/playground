@@ -1,0 +1,4 @@
+Python learning.
+There is class Matrix defining a 2d matrix. It's purpose is solving simple 
+linear systems by using LU decomposition. Some functions are globaly defined
+to test it.
