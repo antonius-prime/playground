@@ -1,0 +1,10 @@
+This question is strictly for purpose of my learning Clojure, a homework
+assignment.  Program is given a formula (proposition logic in this case,
+infix notation) and it should manipulate it as symbolic formula. It
+would need to change given formula to the formula in some other form and
+so on. In Java, i would probably define token interface, a class for
+every valid token and then represent the formula as a tree of token
+instances and manipulate it.
+
+I am new to clojure, lisp, functional programming.  When i tried to
+solve it in Clojure i began doing the same thing using datatypes.
